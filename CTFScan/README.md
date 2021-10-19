@@ -14,6 +14,7 @@ build a basic scanner i.e. 'CTFScan --TARGET' and it will magically scan and enu
 
 ## Todo
 - Google, how else will I learn examples of scanners people have already built.
+	- Use an ass load of bash aliases and run one after another/pipe from one to another?
 - Build it to do the scan and output (initially anyway, see Dreams section).
 - 
 
